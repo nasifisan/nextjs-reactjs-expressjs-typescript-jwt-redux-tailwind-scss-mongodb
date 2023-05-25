@@ -11,7 +11,9 @@ Others you'll find in this template-
 
 
 Scopes
-```Rather than designing UI safely you can also upgrade the token authentication system. I've done expires time validation in this project. So other validation could be possible(depending on architecture you're following or a secret). When you'll go through the backend codebase you'll see a class for token validation. Other APIs which need the token validation can use this class.```
+```bash
+Rather than designing UI safely you can also upgrade the token authentication system. I've done expires time validation in this project. So other validation could be possible(depending on architecture you're following or a secret). When you'll go through the backend codebase you'll see a class for token validation. Other APIs which need the token validation can use this class.
+```
 
 
 ## Getting Started
